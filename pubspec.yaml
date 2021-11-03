@@ -63,7 +63,16 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - assets/img-tela-home.jpeg
+    - assets/images/bg.jpg
+    - assets/images/1.jpg
+    - assets/images/2.jpg
+    - assets/images/3.jpg
+    - assets/images/4.jpg
+    - assets/images/5.jpg
+    - assets/images/6.jpg
+    - assets/images/7.jpg
+    - assets/images/8.jpg
+    - assets/images/9.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -91,7 +100,7 @@ flutter:
   fonts:
     - family: Starjedi
       fonts:
-        - asset: assets/Starjedi.ttf
+        - asset: assets/fonts/Starjedi.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
